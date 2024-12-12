@@ -1,8 +1,8 @@
 **Google Calendar Integration**
-This project provides seamless integration with the Google Calendar API, allowing users to log in with their Google account and add events to their calendar.
+This project demonstrates a comprehensive integration with the Google Calendar API, providing functionality to add, edit, and delete events while ensuring secure authentication through OAuth 2.0.
 
 **Features**
 
 	•	Google Account Authentication: Log in securely using your Google account.
-	•	Add Events to Calendar: Create events directly on your Google Calendar.
+	•	Add Events: Create events in your Google Calendar with specified details like title, description, location, and time.
 	•	Event Customization: Customize event details like title, description, date, and time.
